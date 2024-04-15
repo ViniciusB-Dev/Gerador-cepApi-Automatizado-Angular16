@@ -1,3 +1,6 @@
+
+<img src="img.png">
+
 # Cep
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.13.
